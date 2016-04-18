@@ -1,0 +1,18 @@
+/* CSS Document */
+
+div#top{background-color:#FFFFFF;height:20px;}
+div#topcontent{margin-left:80%;font-family:Arial, Helvetica, sans-serif;cursor:pointer;color:#A0A0A4}
+div#container{width:90%;margin-left:5%;margin-right:5%;}
+div#headerTitle {background-color:#99bbbb;height:200px;background-image:url(../source/header.jpg)}
+div#content {background-image:url(../source/header2.jpg); height:350px;margin-top:5px;width:90%;margin-left:5%;margin-right:5%;}
+div#footer {background-color:#99bbbb; clear:both; text-align:center;}
+#probox{overflow:hidden;}
+a{text-decoration:none;font-weight:bold;font-size:35px;color:#2A0000;width:auto;;font-family:"Microsoft Himalaya", "Microsoft New Tai Lue", "Microsoft PhagsPa", "Microsoft Sans Serif";}
+a:link {color:#000000}
+a:visited {color: #00FF00}
+a:hover {color: #FF00FF}
+a:active {color: #0000FF}
+
+div#footer{margin-top:5px;background-color:#FFFFFF;}
+div#formblock{margin-left:40%;padding-top:2%;}
+strong.lab{color:#666666;font-size:20px;}
